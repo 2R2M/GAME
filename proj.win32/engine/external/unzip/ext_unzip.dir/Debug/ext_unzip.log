@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/User/Desktop/TESTGAME_1/cocos2d/external/unzip/CMakeLists.txt
+  ioapi.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\external\unzip\ioapi.cpp(95,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\external\unzip\ioapi.cpp(114,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\external\unzip\ioapi.cpp(189,30): warning C4244: аргумент: преобразование "cocos2d::ZPOS64_T" в "long", возможна потеря данных
+  unzip.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\external\unzip\unzip.cpp(809,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ioapi_mem.cpp
+  Создание кода...
+  ext_unzip.vcxproj -> C:\Users\User\Desktop\TESTGAME_1\proj.win32\lib\Debug\ext_unzip.lib

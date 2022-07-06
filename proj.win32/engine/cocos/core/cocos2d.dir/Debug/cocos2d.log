@@ -1,0 +1,1818 @@
+﻿  Building Custom Rule C:/Users/User/Desktop/TESTGAME_1/cocos2d/cocos/CMakeLists.txt
+  precheader.cpp
+  cocos2d.cpp
+  CCActionCamera.cpp
+  CCActionCatmullRom.cpp
+  CCAction.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionCatmullRom.cpp(272,18): warning C4244: =: преобразование "float" в "ssize_t", возможна потеря данных
+  CCActionEase.cpp
+  CCActionGrid3D.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(74,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(74,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(77,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(77,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(350,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(350,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(374,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(374,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(442,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(442,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(453,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(453,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(509,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(509,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(517,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(517,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(574,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(574,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(577,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(577,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(636,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(636,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(648,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(648,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(712,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(712,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(727,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionGrid3D.cpp(727,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCActionGrid.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionInterval.cpp(2126,46): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionInterval.cpp(2163,22): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionInterval.cpp(2176,46): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionInterval.cpp(2199,22): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionPageTurn3D.cpp(77,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionPageTurn3D.cpp(87,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionPageTurn3D.cpp(87,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionPageTurn3D.cpp(127,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionPageTurn3D.cpp(127,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(85,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(85,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(107,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(107,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(158,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(158,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(180,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(180,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(245,22): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(250,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(250,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(282,35): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(305,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(305,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(320,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(320,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(397,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(397,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(400,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(400,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(404,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(404,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(408,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(408,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(607,35): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(626,63): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(626,40): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(681,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(681,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(689,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(689,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(739,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(739,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(756,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(756,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(781,66): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(800,48): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(813,25): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(836,63): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(855,45): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCActionTiledGrid.cpp(868,22): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  CCAnimationCache.cpp
+  CCAnimation.cpp
+  CCAtlasNode.cpp
+  CCCamera.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(52,22): warning C4244: аргумент: преобразование "float" в "int8_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(464,127): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(464,98): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(464,68): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(464,40): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(469,75): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(469,37): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(468,74): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCCamera.cpp(468,36): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+  CCCameraBackgroundBrush.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponentContainer.cpp
+  CCComponent.cpp
+  CCDrawingPrimitives.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCDrawingPrimitives.cpp(359,20): warning C4244: =: преобразование "float" в "ssize_t", возможна потеря данных
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(182,26): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(224,60): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(225,61): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(237,76): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(238,77): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(253,16): warning C4244: инициализация: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(254,14): warning C4244: инициализация: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(255,16): warning C4244: инициализация: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(256,14): warning C4244: инициализация: преобразование "const _Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(265,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(265,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(365,46): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(475,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(475,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(475,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(476,57): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(479,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  CCFontAtlasCache.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(586,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(687,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(807,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFastTMXLayer.cpp(813,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCDrawNode.cpp(312,101): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCDrawNode.cpp(356,101): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCDrawNode.cpp(401,101): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCDrawNode.cpp(627,20): warning C4244: =: преобразование "float" в "ssize_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlasCache.cpp(74,59): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+  CCFontAtlas.cpp
+  CCFontCharMap.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontCharMap.cpp(117,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(62,46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(190,38): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+  CCFont.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(396,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(395,75): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(423,114): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(423,77): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(465,113): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontAtlas.cpp(465,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+  CCGLBufferedNode.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFNT.cpp(620,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFNT.cpp(716,30): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  CCGrabber.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(260,51): warning C4244: аргумент: преобразование "uint64_t" в "FT_ULong", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(266,51): warning C4244: аргумент: преобразование "uint64_t" в "FT_ULong", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(304,40): warning C4244: аргумент: преобразование "uint64_t" в "FT_ULong", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(309,40): warning C4244: аргумент: преобразование "uint64_t" в "FT_ULong", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(314,49): warning C4244: =: преобразование "FT_Pos" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(315,28): warning C4244: =: преобразование "FT_Pos" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(316,45): warning C4244: =: преобразование "FT_Pos" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(317,47): warning C4244: =: преобразование "FT_Pos" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(339,28): warning C4244: инициализация: преобразование "float" в "long", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(340,28): warning C4244: инициализация: преобразование "float" в "long", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(341,28): warning C4244: инициализация: преобразование "float" в "long", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(342,28): warning C4244: инициализация: преобразование "float" в "long", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(356,32): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(391,36): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(392,36): warning C4244: =: преобразование "long" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCFontFreeType.cpp(421,32): warning C4244: аргумент: преобразование "uint64_t" в "FT_ULong", возможна потеря данных
+  CCGrid.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(246,51): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(246,40): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(246,28): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(246,18): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(420,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(451,30): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(456,88): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(466,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(512,85): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(519,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(531,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(542,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(553,89): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(659,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(687,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(763,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(771,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(783,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCGrid.cpp(796,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(116,24): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(117,25): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(145,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(146,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(218,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(218,23): warning C4244: аргумент: преобразование "ssize_t" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(237,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(238,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelAtlas.cpp(239,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+  CCLabel.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(137,32): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(143,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(144,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(145,42): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(252,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(344,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCLabelTextFormatter.cpp
+  CCLabelTTF.cpp
+  CCLayer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(651,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTextFormatter.cpp(113,58): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTextFormatter.cpp(143,32): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTextFormatter.cpp(241,73): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTTF.cpp(193,18): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTTF.cpp(194,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabelTTF.cpp(206,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(1111,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(1358,37): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(1383,43): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(1384,73): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(1527,67): warning C4244: =: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+  CCLight.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2008,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2009,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2010,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2099,31): warning C4244: =: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2117,64): warning C4244: =: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2118,64): warning C4244: =: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2119,64): warning C4244: =: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLabel.cpp(2120,62): warning C4244: =: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCLayer.cpp(265,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCMenuItem.cpp(426,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCMenuItem.cpp(437,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCNode.cpp(2014,53): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCNode.cpp(2099,53): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCNode.cpp(2100,53): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCNode.cpp(2101,53): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystem.cpp(339,71): warning C4244: =: преобразование "float" в "GLenum", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystem.cpp(422,70): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystem.cpp(431,68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystem.cpp(449,80): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystem.cpp(881,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProgressTimer.cpp(498,112): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProgressTimer.cpp(498,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProgressTimer.cpp(500,104): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProgressTimer.cpp(500,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(404,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(405,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(406,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(407,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(424,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(425,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(426,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCParticleSystemQuad.cpp(427,28): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(220,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(220,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(225,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(225,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProtectedNode.cpp(401,50): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProtectedNode.cpp(418,50): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProtectedNode.cpp(419,50): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCProtectedNode.cpp(420,50): warning C4244: =: преобразование "double" в "GLubyte", возможна потеря данных
+  CCScene.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(674,54): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(674,35): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(704,51): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(704,40): warning C4244: аргумент: преобразование "const float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(704,28): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCRenderTexture.cpp(704,18): warning C4244: аргумент: преобразование "const float" в "GLint", возможна потеря данных
+  CCSpriteBatchNode.cpp
+  CCSprite.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCSprite.cpp(1512,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCSprite.cpp(1513,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCSprite.cpp(1514,38): warning C4244: *=: преобразование "float" в "GLubyte", возможна потеря данных
+  CCSpriteFrameCache.cpp
+  CCSpriteFrame.cpp
+  CCAutoPolygon.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(257,26): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(257,21): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(259,24): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(259,20): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(261,25): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(261,21): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(263,23): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(263,20): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(275,16): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(276,16): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+  CCTMXLayer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(534,60): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(534,42): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(559,71): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(560,114): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(560,71): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(561,75): warning C4244: аргумент: преобразование "float" в "ClipperLib::cInt", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(607,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(607,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(622,36): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=unsigned short
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(676,21): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(677,21): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(698,38): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCAutoPolygon.cpp(698,30): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTileMapAtlas.cpp(171,11): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTileMapAtlas.cpp(172,11): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTileMapAtlas.cpp(246,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTileMapAtlas.cpp(246,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(94,40): warning C4244: аргумент: преобразование "float" в "ssize_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(100,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(103,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(196,72): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(220,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(220,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(472,31): warning C4244: =: преобразование "float" в "intptr_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(474,65): warning C4244: =: преобразование "float" в "intptr_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(478,31): warning C4244: =: преобразование "float" в "intptr_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(480,66): warning C4244: =: преобразование "float" в "intptr_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(485,20): warning C4244: =: преобразование "float" в "intptr_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(600,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(654,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(703,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXLayer.cpp(708,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(276,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(360,29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(424,50): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(424,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(461,29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(523,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(523,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTMXXMLParser.cpp(703,34): warning C4244: инициализация: преобразование "float" в "ssize_t", возможна потеря данных
+  CCTransitionPageTurn.cpp
+  CCTransitionProgress.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransitionPageTurn.cpp(115,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransitionPageTurn.cpp(115,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCTweenFunction.cpp
+  CCAABB.cpp
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransition.cpp(1429,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransition.cpp(1429,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCAttachNode.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransition.cpp(1625,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\2d\CCTransition.cpp(1625,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(104,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(768,75): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(792,130): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(792,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(791,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(794,130): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(794,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(793,78): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1173,67): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1221,67): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1271,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1485,77): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1508,35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1509,173): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1509,131): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1509,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1516,35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1517,219): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1517,181): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1517,143): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1517,105): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1524,35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1525,155): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1525,119): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1525,83): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1713,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCBundle3D.cpp(1765,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCMotionStreak3D.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSkybox.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  CCTerrain.cpp
+  CCStdC-win32.cpp
+  CCUtils-win32.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(238,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(239,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(303,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(304,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(346,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(347,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(359,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(359,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(360,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(360,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(361,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(361,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(362,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(362,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,96): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,93): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,141): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,138): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,182): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(371,178): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(398,93): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(414,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(414,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCFileUtils-win32.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(568,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(569,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(570,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(571,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(912,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(913,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(946,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(994,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(997,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1009,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1011,57): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1018,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1020,74): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1027,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1029,57): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1036,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1038,69): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1047,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1050,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1065,28): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1066,93): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1067,97): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1067,185): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1124,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1125,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1365,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1366,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1381,38): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1407,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1408,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1513,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\3d\CCTerrain.cpp(1514,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  CCCommon-win32.cpp
+  CCApplication-win32.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\win32\CCApplication-win32.cpp(122,88): warning C4244: =: преобразование "LONGLONG" в "LONG", возможна потеря данных
+  CCDevice-win32.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\win32\CCDevice-win32.cpp(47,36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  inet_pton_mingw.cpp
+  CCGLViewImpl-desktop.cpp
+  CCDataManager.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(297,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(298,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(386,73): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(386,55): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(402,72): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(402,55): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(604,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(604,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(609,44): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(610,46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(637,53): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(637,35): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(663,137): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(663,80): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(673,132): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(673,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  CCSAXParser.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(925,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(926,25): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(927,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\desktop\CCGLViewImpl-desktop.cpp(927,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCThread.cpp
+  CCGLView.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\CCGLView.cpp(176,56): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\platform\CCGLView.cpp(176,37): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+  CCFileUtils.cpp
+  CCImage.cpp
+  CCPhysicsBody.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\physics\CCPhysicsBody.cpp(346,29): warning C4244: аргумент: преобразование "double" в "cpFloat", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\physics\CCPhysicsBody.cpp(399,61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+  CCPhysicsShape.cpp
+  CCPhysicsWorld.cpp
+  CCPhysics3D.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\physics\CCPhysicsWorld.cpp(205,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  CCPhysics3DComponent.cpp
+  CCPhysics3DConstraint.cpp
+  CCPhysics3DDebugDrawer.cpp
+  CCPhysics3DObject.cpp
+  CCPhysics3DShape.cpp
+  CCPhysics3DWorld.cpp
+  CCPhysicsSprite3D.cpp
+  CCAffineTransform.cpp
+  CCGeometry.cpp
+  CCVertex.cpp
+  Mat4.cpp
+  MathUtil.cpp
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  CCNavMesh.cpp
+  CCNavMeshAgent.cpp
+  CCNavMeshDebugDraw.cpp
+  CCNavMeshObstacle.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(100,48): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(107,46): warning C4267: =: преобразование из "size_t" в "unsigned short"; возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(120,26): warning C4244: аргумент: преобразование "const unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(120,23): warning C4244: аргумент: преобразование "const unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(120,20): warning C4244: аргумент: преобразование "const unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\navmesh\CCNavMeshDebugDraw.cpp(120,17): warning C4244: аргумент: преобразование "const unsigned int" в "float", возможна потеря данных
+  CCNavMeshUtils.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+  CCGLProgramStateCache.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCGLProgramState.cpp(920,14): warning C4996: 'cocos2d::UniformValue::setTexture': объявлен deprecate
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCGLProgramState.cpp(924,14): warning C4996: 'cocos2d::UniformValue::setTexture': объявлен deprecate
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCGLProgramState.cpp(941,14): warning C4996: 'cocos2d::UniformValue::setTexture': объявлен deprecate
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCGLProgramState.cpp(945,14): warning C4996: 'cocos2d::UniformValue::setTexture': объявлен deprecate
+  CCGroupCommand.cpp
+  CCMaterial.cpp
+  CCMeshCommand.cpp
+  CCPass.cpp
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCQuadCommand.cpp(84,25): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  CCRenderState.cpp
+  CCRenderer.cpp
+  CCTechnique.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCRenderer.cpp(783,42): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCTexture2D.cpp(1086,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCTexture2D.cpp(1145,26): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+  CCTextureCache.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCTextureCache.cpp(473,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCTextureCube.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCTextureCache.cpp(473,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCTrianglesCommand.cpp
+  CCVertexAttribBinding.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  ccGLStateCache.cpp
+  ccShaders.cpp
+  CCFrameBuffer.cpp
+  CCVRDistortion.cpp
+  CCVRDistortionMesh.cpp
+  CCVRGenericRenderer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCFrameBuffer.cpp(100,81): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\renderer\CCFrameBuffer.cpp(100,74): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(81,72): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(81,56): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(83,74): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(83,58): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(84,86): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(84,70): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(134,46): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\vr\CCVRGenericRenderer.cpp(134,30): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+  CCVRGenericHeadTracker.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCController.cpp
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCNinePatchImageParser.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(50,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCDirector.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(50,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(68,32): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(70,28): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(77,32): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(79,28): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(114,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(132,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(132,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(147,15): warning C4244: инициализация: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(164,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCNinePatchImageParser.cpp(164,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  CCEventController.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(211,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(1382,35): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(1382,30): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(1383,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(1384,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCDirector.cpp(1385,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCEventCustom.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1297,82): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1297,75): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1358,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1359,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1385,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1386,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1387,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCConsole.cpp(1388,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerController.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  CCIMEDispatcher.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  CCProperties.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCProfiling.cpp(168,62): warning C4244: =: преобразование "float" в "long", возможна потеря данных
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  CCUserDefault.cpp
+  CCValue.cpp
+  ObjectFactory.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\CCValue.cpp(586,27): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  CCStencilStateManager.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  ccCArray.cpp
+  ccFPSImages.c
+  ccRandom.cpp
+  ccTypes.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(59,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(60,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(61,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(120,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(121,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(122,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccTypes.cpp(123,4): warning C4244: инициализация: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+  etc1.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccUtils.cpp(87,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  pvr.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccUtils.cpp(192,54): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccUtils.cpp(192,42): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccUtils.cpp(214,74): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\base\ccUtils.cpp(214,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  s3tc.cpp
+  CCController-linux-win32.cpp
+  AudioEngine.cpp
+  SimpleAudioEngine.cpp
+  MciPlayer.cpp
+  AudioEngine-win32.cpp
+  AudioCache.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\audio\win32\AudioCache.cpp(252,43): warning C4244: =: преобразование "float" в "uint32_t", возможна потеря данных
+  AudioPlayer.cpp
+  AudioDecoder.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\audio\win32\AudioPlayer.cpp(271,49): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  AudioDecoderManager.cpp
+  AudioDecoderMp3.cpp
+  AudioDecoderOgg.cpp
+  UIEditBoxImpl-win32.cpp
+  CocosGUI.cpp
+  UIButton.cpp
+  UIAbstractCheckButton.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(280,22): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(279,22): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(278,24): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-win32.cpp(277,24): warning C4244: аргумент: преобразование "const float" в "int", возможна потеря данных
+  UICheckBox.cpp
+  UIRadioButton.cpp
+  UIDeprecated.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+  UILayout.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1101,54): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1109,61): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1119,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1139,55): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1146,61): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UILayout.cpp(1156,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIPageViewIndicator.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIPageViewIndicator.cpp(37,59): warning C4244: инициализация: преобразование "double" в "GLubyte", возможна потеря данных
+  UIScale9Sprite.cpp
+  UIScrollView.cpp
+  UIScrollViewBar.cpp
+  UISlider.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIScrollViewBar.cpp(52,9): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIScrollViewBar.cpp(206,44): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UISlider.cpp(470,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UISlider.cpp(502,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UISlider.cpp(511,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(391,77): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(391,61): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(391,45): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(391,29): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(396,42): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(405,77): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(405,61): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(405,45): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(405,29): warning C4244: аргумент: преобразование "GLfloat" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIText.cpp(454,101): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  UITextField.cpp
+  UIVBox.cpp
+  UIWidget.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITextField.cpp(448,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITextField.cpp(451,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITextField.cpp(456,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITextField.cpp(482,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  UIEditBox.cpp
+  UILayoutComponent.cpp
+  UIEditBoxImpl-common.cpp
+  UITabControl.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(107,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(108,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(163,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(170,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(185,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UIEditBox\UIEditBoxImpl-common.cpp(192,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCArray.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(96,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(96,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(102,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(102,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(156,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(165,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(232,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(235,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(237,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(240,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(241,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(246,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(268,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(272,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(448,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\ui\UITabControl.cpp(448,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+  WebSocket.cpp
+  CCDownloader.cpp
+  CCDownloader-curl.cpp
+  Uri.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\network\CCDownloader-curl.cpp(723,45): warning C4244: аргумент: преобразование "int64_t" в "size_t", возможна потеря данных
+  CCBAnimationManager.cpp
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCLabelTTFLoader.cpp(95,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNodeLoader.cpp(462,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNodeLoader.cpp(463,58): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNodeLoader.cpp(468,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNode+CCBRelativePositioning.cpp(56,52): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNode+CCBRelativePositioning.cpp(57,53): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCNodeLoader.cpp(473,58): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+  CCScale9SpriteLoader.cpp
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionFrame.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocosbuilder\CCScrollViewLoader.cpp(77,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCActionFrameEasing.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCActionFrame.cpp(336,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCActionFrame.cpp(341,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCActionFrame.cpp(346,56): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+  CCActionManagerEx.cpp
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCActionObject.cpp(195,23): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCActionNode.cpp(207,27): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCArmatureAnimation.cpp(235,55): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCArmatureAnimation.cpp(445,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCArmatureAnimation.cpp(454,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  CCBone.cpp
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDatas.cpp(127,41): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDatas.cpp(128,41): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  CCDisplayFactory.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(904,33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(921,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(926,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(935,37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1084,43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1085,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1086,43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1087,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1557,50): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1576,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1581,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1596,50): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1762,61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1878,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1987,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1991,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1995,71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(1999,71): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2003,70): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2007,70): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2166,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2218,58): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2233,62): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2260,62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2265,62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2279,54): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2379,70): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2418,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2425,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2432,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2439,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2478,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2479,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2502,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2506,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2514,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2518,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2522,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCDataReaderHelper.cpp(2526,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCComRender.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCComRender.cpp)
+  CCDisplayManager.cpp
+  CCInputDelegate.cpp
+  CCProcessBase.cpp
+  CCSGUIReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCProcessBase.cpp(129,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCProcessBase.cpp(155,39): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  CCSSceneReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(769,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(891,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(938,218): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(938,141): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(1021,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(1175,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(1298,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSGUIReader.cpp(1300,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCTransformHelp.cpp
+  CCTween.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(105,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(106,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(107,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(108,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(131,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(132,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(133,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTransformHelp.cpp(134,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp)
+  CCUtilMath.cpp
+  CocoLoader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCUtilMath.cpp(55,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCUtilMath.cpp(56,67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCUtilMath.cpp(65,112): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCUtilMath.cpp(66,112): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  DictionaryHelper.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(344,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(344,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(521,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(526,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(546,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(551,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCSSceneReader.cpp(556,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LocalizationManager.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(121,37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(148,40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(268,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(276,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(385,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(386,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(387,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(388,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CCTween.cpp(456,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  TriggerBase.cpp
+  TriggerMng.cpp
+  TriggerObj.cpp
+  FlatBuffersSerialize.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerBase.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerBase.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerMng.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerMng.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerObj.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerObj.cpp)
+  CCComExtensionData.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerMng.cpp(277,54): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\TriggerMng.cpp(353,54): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+  CocoStudio.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp)
+  WidgetCallBackHandlerProtocol.cpp
+  NodeReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(576,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(805,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(809,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(848,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(852,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(1260,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(1264,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\FlatBuffersSerialize.cpp(1538,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SingleNodeReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SingleNodeReader\SingleNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(145,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(149,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(229,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(233,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(237,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(241,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(262,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(266,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CocoStudio.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\CocoStudio.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(283,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(287,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(304,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(308,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(354,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(358,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(375,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(379,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(396,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\NodeReader\NodeReader.cpp(400,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SpriteReader.cpp
+  ParticleReader.cpp
+  GameMapReader.cpp
+  ProjectNodeReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SpriteReader\SpriteReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ParticleReader\ParticleReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameMapReader\GameMapReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ProjectNodeReader\ProjectNodeReader.cpp(88,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ComAudioReader.cpp
+  WidgetReader.cpp
+  LoadingBarReader.cpp
+  ListViewReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp(99,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ComAudioReader\ComAudioReader.cpp(149,46): warning C4244: аргумент: преобразование "float" в "int32_t", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp(90,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp(137,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp(176,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LoadingBarReader\LoadingBarReader.cpp(343,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(144,31): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  TextFieldReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(483,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(487,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(575,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(579,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(583,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(587,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(608,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(612,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(629,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(633,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(650,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(654,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(700,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(704,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(721,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(725,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(742,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\WidgetReader.cpp(746,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(107,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(173,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(177,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(181,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(185,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(227,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(231,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(248,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(252,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(343,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(347,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ListViewReader\ListViewReader.cpp(577,26): warning C4244: инициализация: преобразование "int32_t" в "float", возможна потеря данных
+  CheckBoxReader.cpp
+  SliderReader.cpp
+  PageViewReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextFieldReader\TextFieldReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\CheckBoxReader\CheckBoxReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SliderReader\SliderReader.cpp)
+  TextReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(134,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(138,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(142,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(146,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(169,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(173,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(264,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\PageViewReader\PageViewReader.cpp(268,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Node3DReader.cpp
+  UserCameraReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp)
+  Particle3DReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(108,46): warning C4244: аргумент: преобразование "_Ret" в "float", возможна потеря данных
+          with
+          [
+              _Ret=int
+          ]
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(144,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(290,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(294,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(437,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(439,71): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextReader\TextReader.cpp(439,48): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(91,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(95,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(99,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(202,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(206,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(223,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Node3DReader\Node3DReader.cpp(227,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Particle3DReader\Particle3DReader.cpp)
+  Sprite3DReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp(94,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp(98,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\UserCameraReader\UserCameraReader.cpp(127,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  BoneNodeReader.cpp
+  SkeletonNodeReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp(96,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Sprite3DReader\Sprite3DReader.cpp(100,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\BoneNodeReader.cpp(86,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  TextAtlasReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\SkeletonReader\SkeletonNodeReader.cpp)
+  LayoutReader.cpp
+  TextBMFontReader.cpp
+  ImageViewReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp(126,78): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextAtlasReader\TextAtlasReader.cpp(126,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TextBMFontReader\TextBMFontReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(407,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(411,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(415,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(419,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(442,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(446,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(537,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\LayoutReader\LayoutReader.cpp(541,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp)
+  ButtonReader.cpp
+  ScrollViewReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(220,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(224,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(228,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(232,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(255,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ImageViewReader\ImageViewReader.cpp(259,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  GameNode3DReader.cpp
+  Light3DReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\GameNode3DReader\GameNode3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(265,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(330,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(334,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(338,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(342,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(378,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(382,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(409,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(413,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ButtonReader\ButtonReader.cpp(907,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(118,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(178,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(182,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(186,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(190,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(221,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(242,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(246,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(263,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(267,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(358,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ScrollViewReader\ScrollViewReader.cpp(362,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp(122,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp(126,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\Light3DReader\Light3DReader.cpp(130,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCActionTimelineCache.cpp
+  CCActionTimeline.cpp
+  CCActionTimelineNode.cpp
+  CCFrame.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCFrame.cpp(717,27): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCFrame.cpp(718,27): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCFrame.cpp(719,27): warning C4244: =: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCFrame.cpp(772,23): warning C4244: инициализация: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimeline.cpp(202,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimeline.cpp(206,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimeline.cpp(206,28): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCActionTimelineCache.cpp)
+  CCTimeLine.cpp
+  CSLoader.cpp
+  CCBoneNode.cpp
+  CCSkeletonNode.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(66,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(256,16): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(257,16): warning C4244: =: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(306,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(312,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCSkeletonNode.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCSkeletonNode.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CCBoneNode.cpp(426,32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  CCSkinNode.cpp
+  ArmatureNodeReader.cpp
+  TabControlReader.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(120,55): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/ActionTimeline/CCBoneNode.h(124,54): warning C4244: return: преобразование "const int" в "float", возможна потеря данных (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+  Animation.c
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\ActionTimeline\CSLoader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\ArmatureNodeReader\ArmatureNodeReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1546,39): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support/cocostudio/CSParseBinary_generated.h(1593,63): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ] (компилируется исходный файл C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp)
+  AnimationState.c
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp(108,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp(186,52): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp(187,54): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\cocostudio\WidgetReader\TabControlReader\TabControlReader.cpp(571,47): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+  AnimationStateData.c
+  Array.c
+  Atlas.c
+  AtlasAttachmentLoader.c
+  Attachment.c
+  AttachmentLoader.c
+  AttachmentVertices.cpp
+  Bone.c
+  BoneData.c
+  BoundingBoxAttachment.c
+  ClippingAttachment.c
+  Cocos2dAttachmentLoader.cpp
+  Color.c
+  Event.c
+  EventData.c
+  IkConstraint.c
+  IkConstraintData.c
+  Json.c
+  MeshAttachment.c
+  PathAttachment.c
+  PathConstraint.c
+  PathConstraintData.c
+  PointAttachment.c
+  RegionAttachment.c
+  Skeleton.c
+  SkeletonAnimation.cpp
+  SkeletonBatch.cpp
+  SkeletonBinary.c
+  SkeletonBounds.c
+  SkeletonClipping.c
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBinary.c(310,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBinary.c(372,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBatch.cpp(110,42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBinary.c(484,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBinary.c(649,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonBinary.c(652,2): warning C4018: <: несоответствие типов со знаком и без знака
+  SkeletonData.c
+  SkeletonJson.c
+  SkeletonRenderer.cpp
+  SkeletonTwoColorBatch.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonJson.c(97,12): warning C4018: >=: несоответствие типов со знаком и без знака
+  Skin.c
+  Slot.c
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonTwoColorBatch.cpp(237,42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\cocos\editor-support\spine\SkeletonTwoColorBatch.cpp(274,37): warning C4018: <: несоответствие типов со знаком и без знака
+  SlotData.c
+  TransformConstraint.c
+  TransformConstraintData.c
+  Triangulator.c
+  VertexAttachment.c
+  VertexEffect.c
+  extension.c
+  spine-cocos2dx.cpp
+  AssetsManager.cpp
+  AssetsManagerEx.cpp
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+  Manifest.cpp
+  CCControl.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(100,46): warning C4244: аргумент: преобразование "int64_t" в "double", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(100,26): warning C4244: аргумент: преобразование "int64_t" в "double", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(679,61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(679,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(928,65): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(928,52): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1030,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1071,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1180,46): warning C4305: +=: усечение из "double" в "float"
+  CCControlButton.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\assets-manager\Manifest.cpp(434,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlButton.cpp(101,20): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlColourPicker.cpp(154,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlColourPicker.cpp(160,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCControlPotentiometer.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlPotentiometer.cpp(227,34): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlSaturationBrightnessPicker.cpp(73,63): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlSaturationBrightnessPicker.cpp(114,52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\GUI\CCControlExtension\CCControlSaturationBrightnessPicker.cpp(113,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCControlUtils.cpp
+  CCInvocation.cpp
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUDynamicAttribute.cpp(418,26): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUDynamicAttribute.cpp(423,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUDynamicAttribute.cpp(425,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  CCPUForceField.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUNoise.cpp
+  CCPUPlane.cpp
+  CCPURendererTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSphere.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUUtil.cpp(57,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUListener.cpp
+  CCPUAffector.cpp
+  CCPUAffectorManager.cpp
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+  CCPUAlignAffectorTranslator.cpp
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUForceFieldAffector.cpp(291,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUEmitter.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUCircleEmitter.cpp(126,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPUCircleEmitter.cpp(132,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPURender.cpp
+  CCPUBeamRender.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(172,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(172,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(501,114): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(501,89): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(501,64): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(502,58): warning C4244: аргумент: преобразование "float" в "GLubyte", возможна потеря данных
+  CCPUBillboardChain.cpp
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(911,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\TESTGAME_1\cocos2d\extensions\Particle3D\PU\CCPURender.cpp(912,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  LocalStorage.cpp
+  cocos2d.vcxproj -> C:\Users\User\Desktop\TESTGAME_1\proj.win32\lib\Debug\cocos2d.lib
